@@ -1,3 +1,10 @@
+<div align="center">
+  <h1>Toxicity Predictor</h1>
+  <img src="assets/toxic.jpeg" alt="Toxicity Predictor" style="height: 400px; width: 400px"/>
+</div>
+
+
+
 ## 🌟 Overview
 This project is a **toxicity prediction tool** built using [DeepChem](https://deepchem.io/), an open-source toolkit for deep learning in chemistry, biology, 
 and materials science. It uses the **Tox21 dataset**, a benchmark dataset for chemical compound toxicity classification, to predict the potential toxicity of chemical compounds.
